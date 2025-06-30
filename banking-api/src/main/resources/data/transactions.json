@@ -1,0 +1,11 @@
+[ {
+  "id" : 1,
+  "description" : "Initial deposit",
+  "amount" : 1000.0,
+  "date" : "2025-06-01"
+}, {
+  "id" : 2,
+  "description" : "Electricity bill",
+  "amount" : -150.75,
+  "date" : "2025-06-05"
+} ]
