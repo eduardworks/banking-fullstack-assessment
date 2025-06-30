@@ -12,6 +12,11 @@ This repository contains a fullstack coding challenge to evaluate proficiency in
 - CRUD operations on a product catalog
 - Includes data validation, error handling, and basic authentication
 
+run
+cd banking-api
+./mvnw clean install
+mvn spring-boot:run
+
 ### Frontend - React + Vite + Tailwind
 
 - User: user
@@ -20,6 +25,10 @@ This repository contains a fullstack coding challenge to evaluate proficiency in
 - Styled with Tailwind CSS
 - Communicates with backend API or a mock API
 - Implements user login, product listing, and CRUD features
+
+cd banking-app
+npm install
+npm run dev
 
 ---
 
